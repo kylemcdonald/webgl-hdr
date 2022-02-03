@@ -1,5 +1,3 @@
-# wanna-see-a-whiter-white
+# webgl-hdr
 
-> Visit https://fff.kidi.ng for the demo.
-
-<img src="https://github.com/kiding/wanna-see-a-whiter-white/raw/gh-pages/demo.jpg">
+Based on [wanna-see-a-whiter-white](https://github.com/kiding/wanna-see-a-whiter-white/) and ["higher contrast than average"](https://www.shadertoy.com/view/ssByzt) by bub and ollj.
